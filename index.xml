@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Vesper</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Vesper</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <pubDate>Sat, 06 Apr 2024 07:41:42 GMT</pubDate>
+  </item><item>
+    <title>ASCII</title>
+    <link>https://quartz.jzhao.xyz/Information/ASCII</link>
+    <guid>https://quartz.jzhao.xyz/Information/ASCII</guid>
+    <description>ASCII stands for American Standard Code for Information Interchange. It is a character encoding standard used to represent text in computers and communication equipment.</description>
+    <pubDate>Tue, 02 Apr 2024 18:21:36 GMT</pubDate>
+  </item><item>
+    <title>Phase 6</title>
+    <link>https://quartz.jzhao.xyz/Phases/Phase-6</link>
+    <guid>https://quartz.jzhao.xyz/Phases/Phase-6</guid>
+    <description>Now that you have the password, we’re gonna need it to program something. It’ll be fun! todo LUA challenge?.</description>
+    <pubDate>Tue, 02 Apr 2024 18:19:23 GMT</pubDate>
+  </item><item>
+    <title>Basic Auth</title>
+    <link>https://quartz.jzhao.xyz/Information/Basic-Auth</link>
+    <guid>https://quartz.jzhao.xyz/Information/Basic-Auth</guid>
+    <description>HTTP Basic Authentication is a simple and widely used authentication mechanism in web development. It allows clients to access protected resources on a server by providing a username and password.</description>
+    <pubDate>Mon, 01 Apr 2024 20:24:27 GMT</pubDate>
+  </item><item>
+    <title>REST</title>
+    <link>https://quartz.jzhao.xyz/Information/REST</link>
+    <guid>https://quartz.jzhao.xyz/Information/REST</guid>
+    <description>REST, or Representational State Transfer, is an architectural style for designing networked applications, particularly web services. It provides a set of principles that guide how web services should be structured and how they should behave.</description>
+    <pubDate>Sat, 23 Mar 2024 20:14:53 GMT</pubDate>
+  </item><item>
+    <title>API</title>
+    <link>https://quartz.jzhao.xyz/Information/API</link>
+    <guid>https://quartz.jzhao.xyz/Information/API</guid>
+    <description>An API, or Application Programming Interface, is a set of rules and protocols that allows different software applications (or humans) to communicate with each other ...</description>
+    <pubDate>Sat, 23 Mar 2024 20:00:05 GMT</pubDate>
+  </item><item>
+    <title>Phase 5</title>
+    <link>https://quartz.jzhao.xyz/Phases/Phase-5</link>
+    <guid>https://quartz.jzhao.xyz/Phases/Phase-5</guid>
+    <description>Nicely done! Completing Phase 4 should’ve yielded a URL, but you’ll quickly notice that it’s not something you can just open with your favorite web browser ...</description>
+    <pubDate>Sat, 23 Mar 2024 17:15:08 GMT</pubDate>
+  </item><item>
+    <title>Phase 4</title>
+    <link>https://quartz.jzhao.xyz/Phases/Phase-4</link>
+    <guid>https://quartz.jzhao.xyz/Phases/Phase-4</guid>
+    <description>QR Codes are very useful. Especially when they are intact. This will be your clue for this phase.</description>
+    <pubDate>Sat, 23 Mar 2024 16:37:02 GMT</pubDate>
+  </item><item>
+    <title>Caesar cipher</title>
+    <link>https://quartz.jzhao.xyz/Information/Caesar-cipher</link>
+    <guid>https://quartz.jzhao.xyz/Information/Caesar-cipher</guid>
+    <description>...</description>
+    <pubDate>Tue, 19 Mar 2024 13:27:26 GMT</pubDate>
+  </item><item>
+    <title>Vigenère cipher</title>
+    <link>https://quartz.jzhao.xyz/Information/Vigen%C3%A8re-cipher</link>
+    <guid>https://quartz.jzhao.xyz/Information/Vigen%C3%A8re-cipher</guid>
+    <description> The Vigenère cipher is a method of encrypting alphabetic text by using a simple form of polyalphabetic substitution. It was first described by Giovan Battista Bellaso in 1553 and later popularized by Blaise de Vigenère in the 19th century.</description>
+    <pubDate>Tue, 19 Mar 2024 13:22:17 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
