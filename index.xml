@@ -6,6 +6,24 @@
       <description>Last 10 notes on Vesper</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>QR Codes</title>
+    <link>https://quartz.jzhao.xyz/QR-Codes</link>
+    <guid>https://quartz.jzhao.xyz/QR-Codes</guid>
+    <description>QR codes, or Quick Response codes, are two-dimensional barcodes that can store information in a visually readable pattern. They were initially created for tracking parts in vehicle manufacturing but have since been adopted in various fields due to their versatility.</description>
+    <pubDate>Thu, 11 Apr 2024 18:25:51 GMT</pubDate>
+  </item><item>
+    <title>SPOILER - Code for Phase 6</title>
+    <link>https://quartz.jzhao.xyz/Information/SPOILER---Code-for-Phase-6</link>
+    <guid>https://quartz.jzhao.xyz/Information/SPOILER---Code-for-Phase-6</guid>
+    <description>...</description>
+    <pubDate>Thu, 11 Apr 2024 15:07:04 GMT</pubDate>
+  </item><item>
+    <title>Hints</title>
+    <link>https://quartz.jzhao.xyz/Information/Hints</link>
+    <guid>https://quartz.jzhao.xyz/Information/Hints</guid>
+    <description> Hints are at the bottom of all phases, and are automatically closed. Hints look like this: [!hint 1] This is an open hint. [!hint 2]- This is a closed hint.</description>
+    <pubDate>Thu, 11 Apr 2024 09:32:08 GMT</pubDate>
+  </item><item>
     <title>Phase 7</title>
     <link>https://quartz.jzhao.xyz/Phases/Phase-7</link>
     <guid>https://quartz.jzhao.xyz/Phases/Phase-7</guid>
@@ -21,7 +39,7 @@
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description> Welcome to Vesper. There are Links for most of the information that you will require. If you’re stuck, ask. Have fun, and good luck! Begin.</description>
+    <description> Welcome to Vesper. There are Links and Hints for most of the information that you will require. If you’re stuck, ask. Have fun, and good luck! Begin. Info This was authored using Obsidian and built with Quartz for my lovely wife during the months of March and April of 2024.</description>
     <pubDate>Thu, 11 Apr 2024 09:11:45 GMT</pubDate>
   </item><item>
     <title>ASCII</title>
@@ -47,24 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Information/REST</guid>
     <description>REST, or Representational State Transfer, is an architectural style for designing networked applications, particularly web services. It provides a set of principles that guide how web services should be structured and how they should behave.</description>
     <pubDate>Sat, 23 Mar 2024 20:14:53 GMT</pubDate>
-  </item><item>
-    <title>API</title>
-    <link>https://quartz.jzhao.xyz/Information/API</link>
-    <guid>https://quartz.jzhao.xyz/Information/API</guid>
-    <description>An API, or Application Programming Interface, is a set of rules and protocols that allows different software applications (or humans) to communicate with each other ...</description>
-    <pubDate>Sat, 23 Mar 2024 20:00:05 GMT</pubDate>
-  </item><item>
-    <title>Phase 5</title>
-    <link>https://quartz.jzhao.xyz/Phases/Phase-5</link>
-    <guid>https://quartz.jzhao.xyz/Phases/Phase-5</guid>
-    <description>Nicely done! Completing Phase 4 should’ve yielded a URL, but you’ll quickly notice that it’s not something you can just open with your favorite web browser ...</description>
-    <pubDate>Sat, 23 Mar 2024 17:15:08 GMT</pubDate>
-  </item><item>
-    <title>Phase 4</title>
-    <link>https://quartz.jzhao.xyz/Phases/Phase-4</link>
-    <guid>https://quartz.jzhao.xyz/Phases/Phase-4</guid>
-    <description>QR Codes are very useful. Especially when they are intact. This will be your clue for this phase.</description>
-    <pubDate>Sat, 23 Mar 2024 16:37:02 GMT</pubDate>
   </item>
     </channel>
   </rss>
